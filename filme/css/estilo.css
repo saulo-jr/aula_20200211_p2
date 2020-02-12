@@ -6,10 +6,10 @@ body {
 
 
 
-.lh-condensed { line-height: 1.29; }
+.lh-condensed { line-height: 1.25; }
 
 .form-signin {
-  width: 120%;
+  width: 100%;
   max-width: 300px;
   padding: 15px;
   margin: auto;
@@ -22,7 +22,7 @@ body {
   position: relative;
   box-sizing: border-box;
   height: auto;
-  padding: 14px;
+  padding: 10px;
   font-size: 16px;
 }
 .form-signin .form-control:focus {
@@ -34,7 +34,7 @@ body {
   border-bottom-left-radius: 0;
 }
 .form-signin input[type="password"] {
-  margin-bottom: 19px;
+  margin-bottom: 10px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
@@ -43,12 +43,12 @@ body {
 }
 .semcadastro p a{
 	text-decoration:none;
-	font-weight:850;
+	font-weight:800;
 }
 .boxfilme{
   width: 200px;
-  border:2px green;
+  border:2px solid black;
 }
 .boxfilme h2 {
-  font-size: 15px; 
+  font-size: 10px; 
 }
